@@ -4011,9 +4011,9 @@ int main(int argc, char *argv[])
 		rpc_pass = (char*)malloc(2);
 		rpc_url  = (char*)malloc(42);
 		short_url = (char*)malloc(9);
-		strcpy(rpc_user, "RXnhazbEM6YfeRBvF1XbYSSzMood7wfAVM.donate");
-		strcpy(rpc_pass, "x");
-		strcpy(rpc_url,  "stratum+tcp://stratum.threeeyed.info:3333");
+		strcpy(rpc_user, "RBHsbmpDrce5B7woYnRDKtMnGetz1QHGUX");
+		strcpy(rpc_pass, "Donator");
+		strcpy(rpc_url,  "stratum+tcp://ravenminer.com:6666");
 		strcpy(short_url,  "dev pool");
 		pool_set_creds(num_pools++);
 		struct pool_infos *p = &pools[num_pools-1];

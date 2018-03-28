@@ -22,7 +22,7 @@
  * RVN donation address: RWoSZX6j6WU6SVTVq5hKmdgPmmrYE9be5R
  *
  */
-#define MIN_DEV_DONATE_PERCENT 1
+#define MIN_DEV_DONATE_PERCENT 0
 
 
 // 100 minutes
