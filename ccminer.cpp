@@ -217,7 +217,7 @@ double opt_resume_temp = 0.;
 double opt_resume_diff = 0.;
 double opt_resume_rate = -1.;
 
-int opt_statsavg = 30;
+int opt_statsavg = 300;
 
 #define API_MCAST_CODE "FTW"
 #define API_MCAST_ADDR "224.0.0.75"
