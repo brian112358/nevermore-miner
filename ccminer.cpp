@@ -218,7 +218,7 @@ double opt_resume_temp = 0.;
 double opt_resume_diff = 0.;
 double opt_resume_rate = -1.;
 
-int opt_statsavg = 30;
+int opt_statsavg = 300;
 
 bool opt_eco_mode = false;
 bool allow_getwork = true;
